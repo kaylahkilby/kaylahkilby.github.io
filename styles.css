@@ -1,0 +1,12 @@
+body {
+     background: darkgrey;
+     color: crimson;
+     }
+     
+     body{
+     font-size: 18pt;
+     font-family: 'Open Sans Condensed', sans-serif;
+}
+h1 { color: darkmagenta; font-size: 250%; font-weight: bold } 
+h2 { font-size: 150%;
+     color: darkslateblue }
